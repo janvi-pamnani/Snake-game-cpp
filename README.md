@@ -16,10 +16,10 @@ It includes real-time movement, collision detection, and score tracking.
 2. SFML (Simple and Fast Multimedia Library)
 
 # Screetshots:
-![Gameplay](images/gameplay1.png)
-![Gameplay](images/gameplay2.png)
-![Gameplay](images/gameplay3.png)
-![Gameplay](images/gameplay4.png)
+![Gameplay](gameplay1.png)
+![Gameplay](gameplay2.png)
+![Gameplay](gameplay3.png)
+![Gameplay](gameplay4.png)
 
 # What I Learned:
 1. Implementing game loops and event handling
